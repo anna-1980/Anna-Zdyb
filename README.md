@@ -8,3 +8,7 @@ During my journey I learned about :
 
 I discoverd that I like learning Phaser games, a lot :) 
 
+Check out my project in progress:
+https://science-arcade.netlify.app/
+
+
