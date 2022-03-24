@@ -1,5 +1,5 @@
 # < Hello /> 
-I am Anna, and I just came out of the Web-Dev Boot camp, yes in one piece ;) 
+I am Anna, and I am a coding biologist.
 
 During my journey I learned about : 
 
@@ -8,7 +8,10 @@ During my journey I learned about :
 
 I discoverd that I like learning Phaser games, a lot :) 
 
-Check out my project in progress:
-https://science-arcade.netlify.app/
+Check out my portfolio:
+https://www.anna-zdyb.com/
+
+or message me on LinkedIn:
+https://www.linkedin.com/in/dr-anna-zdyb/
 
 
