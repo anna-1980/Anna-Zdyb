@@ -1,6 +1,6 @@
 # < Hello /> 
 I am Anna, and I am a coding graphic designer and a biologist.
-I like designing and coding websites and I am learning more about UI / UX 
+I like designing and coding websites and I am eagerly deepening my knowladge about UI / UX,  MERN stack, and Redux
 
 During my journey I learned about : 
 
