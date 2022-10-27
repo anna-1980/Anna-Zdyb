@@ -63,8 +63,10 @@ Check out my website: https://www.anna-zdyb.com/
 <br/>  
  
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-1980&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=anna-1980&layout=compact&theme=vision-friendly-dark
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=anna-1980&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 
  
