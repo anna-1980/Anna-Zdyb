@@ -61,9 +61,7 @@ Check out my website: https://www.anna-zdyb.com/
 <img src="https://github-readme-stats.vercel.app/api?username=anna-1980&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
-(https://github-readme-stats.vercel.app/api/top-langs/?username=unsignedmind&layout=compact&hide_border=true)](https://github.com/unsignedmind/github-readme-stats)
-
-
+ 
 
  
 
