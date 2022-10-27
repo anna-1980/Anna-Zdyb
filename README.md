@@ -61,7 +61,7 @@ Check out my website: https://www.anna-zdyb.com/
 <img src="https://github-readme-stats.vercel.app/api?username=anna-1980&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-1980)](https://github.com/anna-1980/github-readme-stats)
+ 
 
 
 
