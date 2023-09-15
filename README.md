@@ -5,7 +5,7 @@ I like designing and coding websites and I am eagerly deepening my knowledge abo
 Also, I like Phaser3 games :)
 
 <div align="left">
-<a href="https://www.anna-zdyb.com/" target="_blank"><img src="https://i.ibb.co/VWGFSHF/WEB-Portfolio-thumb-03.png" align="center" height="200" width="385" /></a>
+<a href="https://www.anna-zdyb.com/" target="_blank"><img src="https://i.ibb.co/qWn8JYK/WEB-Portfolio-thumb-03.png" align="center" height="200" width="385" /></a>
 </div>  
  
 Check out my website: https://www.anna-zdyb.com/  
