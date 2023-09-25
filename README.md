@@ -1,8 +1,9 @@
  # < Hello /> 
 
 I am Anna, and I am a passionate coder, graphic designer and a biologist.
-I like designing and coding websites and I am eagerly deepening my knowledge about UI / UX,  MERN stack, and NextJS
-Also, I like Phaser3 games :)
+I like designing and coding websites and I am eagerly deepening my knowledge about Frontend Development, lately with Next.js. 
+I also like UI / UX, and I am keeping up with Next.js and MongoDB basics.
+ 
 
 <div align="left">
 <a href="https://www.anna-zdyb.com/" target="_blank"><img src="https://i.ibb.co/qWn8JYK/WEB-Portfolio-thumb-03.png" align="center" height="200" width="385" /></a>
