@@ -1,8 +1,8 @@
  # < Hello /> 
 
-I am Anna, and I am a passionate coder, graphic designer and a biologist.
+I am Anna, a passionate coder, graphic designer and a biologist.
 I like designing and coding websites and I am eagerly deepening my knowledge about Frontend Development, lately with Next.js. 
-I also like UI / UX, and I am keeping up with Next.js and MongoDB basics.
+I'm, Learning more about UI / UX, and I am keeping up with Next.js and MongoDB basics.
  
 
 <div align="left">
