@@ -67,7 +67,7 @@ Check out my website: https://www.anna-zdyb.com/
  
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-1980&layout=compact&exclude_repo=WBS-CookBook.com" align="left" />  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-1980)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=anna-1980)
 
 
  
